@@ -2,7 +2,7 @@
 
 This is a web-based AI Image Generator application that allows users to generate images from natural language prompts using Hugging Face's Inference API.
 
-live link : 
+live link : https://ai-image-generator-one-theta.vercel.app/
 
 ## Features
 
@@ -28,6 +28,6 @@ live link :
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/ai-image-generator.git
+git clone https://github.com/zymmy5507/AI-Image-Generator.git
 cd ai-image-generator
 
