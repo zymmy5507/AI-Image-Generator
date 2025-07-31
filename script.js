@@ -78,7 +78,7 @@
     //   return images;
     // }
     async function generateImages(prompt, model, count, aspectRatio) {
-      const hf_token = "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"; // <-- Replace with your token
+      const hf_token = ""; // <-- Replace with your token
 
       const modelMap = {
         "stable-diffusion-xl": "stabilityai/stable-diffusion-xl-base-1.0",
