@@ -5,17 +5,17 @@ This is a web-based AI Image Generator application that allows users to generate
 ### Preview 1
 ![Preview 1](21232.png)
 
-#Generated Image
+## Generated Image
 
 ### Preview 2
 ![Preview 2](Screenshot%202025-07-31%20185109.png)
 
-#UI
+## UI
 
 ### Preview 3
 ![Preview 3](ai-generated-1753967656951.png)
 
-# Generated IMage
+# Generated Image
 
 
 
